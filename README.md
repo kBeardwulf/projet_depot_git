@@ -1,1 +1,1 @@
-{\rtf1}
+# Projet de mise en main pour Git
