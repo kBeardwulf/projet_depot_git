@@ -1,3 +1,3 @@
 # Projet de mise en main pour Git
 
-Modification depuis le dossier n°2
+Modification depuis le dossier n°1 maintenant
